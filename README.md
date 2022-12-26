@@ -15,3 +15,6 @@ operacionais. Para verificar a validade da proposta, realizamos um exemplo de ap
 com uma máquina de usinagem de eletroerosão a fio, modelo Agie Charmilles CUT 30 P.
 Os resultados trazem indícios de que nossa solução viabiliza a adaptação de maquinários
 antigos para os novos desafios da quarta revolução industrial.
+
+## Screenshots
+![App Screenshot](prints/programa.png)
